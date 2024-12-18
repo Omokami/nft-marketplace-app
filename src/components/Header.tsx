@@ -20,14 +20,14 @@ const Header = () => {
                         className='search-input'
                     />
                 </div>
-                {/* <nav className='des-menu'>
+                <nav className='des-menu'>
                     <a href="#" className='menu-item'>Explore</a>
                     <a href="#" className='menu-item'>Staking</a>
                     <a href="#" className='menu-item'>Collection</a>
                     <button className='wallet-btn'>
                         Connect
                     </button>
-                </nav> */}
+                </nav>
 
 
                 <button onClick={theme?.toggleTheme} className='theme-btn'>
