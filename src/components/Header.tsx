@@ -13,13 +13,13 @@ const Header = () => {
         <header className='header'>
             <div className='h-container'>
                 <div className='logo'>NFT Marketplace</div>
-                <div className='search-wrap'>
+                {/* <div className='search-wrap'>
                     <input
                         type='text'
                         placeholder='Search...'
                         className='search-input'
                     />
-                </div>
+                </div> */}
                 <nav className='des-menu'>
                     <a href="#" className='menu-item'>Explore</a>
                     <a href="#" className='menu-item'>Staking</a>
