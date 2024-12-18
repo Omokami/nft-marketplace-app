@@ -22,7 +22,7 @@
     @apply hidden md:flex space-x-4 items-center;
 }
 
-/* .menu-item {
+.menu-item {
     @apply hover:text-blue-500 text-gray-600 dark:text-gray-400 font-bold;
 }
 
@@ -32,4 +32,4 @@
 
 .theme-btn {
     @apply hidden md:block p-2 rounded-lg hover:bg-gray-300 bg-gray-200 dark:bg-gray-700 dark:hover:bg-gray-600 dark:text-white ml-3;
-} */
+}
